@@ -7,17 +7,17 @@ This is especially for the porpose of using different class library than C# uses
 v0.2
 Methods and their overloads: 
 
-Beep
-Clear
-Read
-ReadKey
-ReadLine
-ResetColor
-SetBufferSize
-SetCursorPosition
-SetWindowPosition
-SetWindowSize
-Write
-WriteLine
+Beep,
+Clear,
+Read,
+ReadKey,
+ReadLine,
+ResetColor,
+SetBufferSize,
+SetCursorPosition,
+SetWindowPosition,
+SetWindowSize,
+Write,
+WriteLine,
 
-are already properly wrapped up
+are already properly wrapped up.
